@@ -1,0 +1,2 @@
+# amjad
+the first ripository
